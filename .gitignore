@@ -1,0 +1,5 @@
+
+*.xml
+netbeans/NetBeansProjects/area/build/classes/.netbeans_update_resources
+netbeans/NetBeansProjects/area/build/classes/.netbeans_automatic_build
+netbeans/NetBeansProjects/Aula0/build/classes/.netbeans_automatic_build
